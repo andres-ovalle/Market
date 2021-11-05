@@ -1,17 +1,87 @@
 .nav0{
- color: blue;
- background-color: yellow;
+ color:#A9A9A9;
+ background-color:#F5F5F5;
  height: 100px;
- 
 }
 .imagenlogo{
+    float: left;
 height: 100px;
 width: auto;
 
 }
-#titulo{
-    font-family: "Roboto", sans-serif;
-    font-size: 18px;
-    color: #808080;
-    justify-content: flex-end !important;
+.titulo{
+    float: left;
+    height: 100px;
+    font-size: larger;
+    margin-left: 30px;
+    justify-content: center;
+   
+    
+}
+.h01{
+
+    padding-top: 30px;
+}
+
+#btnInicioSesion{
+    float: right;
+    height: 100px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-decoration: underline;
+    
+
+}
+#btnInicioSesion:hover{
+    float: right;
+    height: 100px;
+    margin-left: 30px;
+    margin-right: 30px;
+    color: black;
+    text-decoration: underline black;
+}
+#opcionProductos{
+    float: right;
+    height: 100px;
+    margin-left: 30px;
+    text-decoration: underline;
+
+
+}
+#opcionProductos:hover{
+
+    float: right;
+    height: 100px;
+    margin-left: 30px;
+    color: black;
+    text-decoration: underline black;
+}
+
+#btnregistro{
+height: 100px;
+margin: auto;
+justify-content: center;
+float: right;
+font-size: 20px;
+color:#A9A9A9;
+
+}
+#btnregistro:hover{
+    height: 100px;
+    margin: auto;
+    justify-content: center;
+    float: right;
+    font-size: 20px;
+    text-decoration: underline;
+    color: black;
+    }
+
+.CarritoCompra{
+    float: right;
+    height: 40px;
+    width: auto;
+    margin-top: 29px;
+    margin-left: 30px;
+
+
 }

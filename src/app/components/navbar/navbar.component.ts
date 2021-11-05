@@ -7,7 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class NavbarComponent implements OnInit {
 
-  title ='Bienbenido al miniMarket Pilarica' 
+  title ='¡Bienvenido al MiniMarket Pilarica!' 
   constructor() { }
 
   ngOnInit(): void {
