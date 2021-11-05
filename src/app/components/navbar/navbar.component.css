@@ -64,6 +64,7 @@ justify-content: center;
 float: right;
 font-size: 20px;
 color:#A9A9A9;
+border-bottom: #F5F5F5;
 
 }
 #btnregistro:hover{
@@ -74,6 +75,7 @@ color:#A9A9A9;
     font-size: 20px;
     text-decoration: underline;
     color: black;
+    border-bottom: #F5F5F5;
     }
 
 .CarritoCompra{

@@ -1,23 +1,26 @@
-.maim{
-background-color: black;
 
-}
-.bar{
-
-    background-color: black green;
-
-}
-body{
-
-    background-color: #4caf50;
-}
-
-a{
-    color: aqua;
-    background-color: #4caf50 green;
-}
-.img{
-    height: 100%;
+#card{
+    float: left;
+    margin: 10px;
+    padding: 15px;
+    height: 415px;
     width: 20%;
+    border:solid;
+    background-color: azure;
+}
+#imagen{
+border-top: 2px;
+border:solid;
+}
 
+#addCarrito{
+    border: solid;
+    margin-left: 25%;
+    color:#A9A9A9;
+}
+
+#addCarrito:hover{
+    border: solid;
+    margin-left: 25%;
+    color:black;
 }

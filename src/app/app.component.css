@@ -1,0 +1,6 @@
+.body{
+    background-color: #f9f9fd;
+    opacity: 0.8;
+    background-size: 20px 20px;
+    background-image:  repeating-linear-gradient(0deg, #c7c7c7, #c7c7c7 1px, #f9f9fd 1px, #f9f9fd);
+}

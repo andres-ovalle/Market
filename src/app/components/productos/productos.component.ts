@@ -7,6 +7,10 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ProductosComponent implements OnInit {
 
+
+  descripcion  = 'Chitos'
+  valor ='$ 10.000'
+
   constructor() { }
 
   ngOnInit(): void {
