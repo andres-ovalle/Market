@@ -1,0 +1,17 @@
+.nav0{
+ color: blue;
+ background-color: yellow;
+ height: 100px;
+ 
+}
+.imagenlogo{
+height: 100px;
+width: auto;
+
+}
+#titulo{
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    color: #808080;
+    justify-content: flex-end !important;
+}
