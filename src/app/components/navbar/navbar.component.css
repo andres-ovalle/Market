@@ -5,8 +5,8 @@
 }
 .imagenlogo{
     float: left;
-height: 100px;
-width: auto;
+    height: 100px;
+    width: auto;
 
 }
 .titulo{
@@ -24,19 +24,21 @@ width: auto;
 }
 
 #btnInicioSesion{
-    float: right;
     height: 100px;
-    margin-left: 30px;
-    margin-right: 30px;
-    text-decoration: underline;
+    margin: auto;
+    justify-content: center;
+    float: right;
+    font-size: 20px;
+    color:#A9A9A9;
+    border-bottom: #F5F5F5;
     
-
 }
 #btnInicioSesion:hover{
-    float: right;
     height: 100px;
-    margin-left: 30px;
-    margin-right: 30px;
+    margin: auto;
+    justify-content: center;
+    float: right;
+    font-size: 20px;
     color: black;
     text-decoration: underline black;
 }
@@ -58,24 +60,26 @@ width: auto;
 }
 
 #btnregistro{
-height: 100px;
-margin: auto;
-justify-content: center;
-float: right;
-font-size: 20px;
-color:#A9A9A9;
-border-bottom: #F5F5F5;
+    height: 100px;
+    margin: auto;
+    justify-content: center;
+    float: right;
+    font-size: 20px;
+    color:#A9A9A9;
+    border-bottom: #F5F5F5;
 
 }
 #btnregistro:hover{
     height: 100px;
-    margin: auto;
+    margin-top: auto;
     justify-content: center;
     float: right;
     font-size: 20px;
     text-decoration: underline;
     color: black;
     border-bottom: #F5F5F5;
+    border-radius: 15px;
+    border: solid;
     }
 
 .CarritoCompra{

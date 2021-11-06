@@ -6,21 +6,25 @@
     height: 415px;
     width: 20%;
     border:solid;
+    border-radius: 15px;
     background-color: azure;
 }
 #imagen{
 border-top: 2px;
 border:solid;
+border-radius: 15px;
 }
 
 #addCarrito{
     border: solid;
     margin-left: 25%;
     color:#A9A9A9;
+    border-radius: 15px;
 }
 
 #addCarrito:hover{
     border: solid;
     margin-left: 25%;
     color:black;
+    border-radius: 15px;
 }

@@ -6,6 +6,7 @@ import { NavbarComponent } from './components/navbar/navbar.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatButtonModule } from '@angular/material/button';
 import { ProductosComponent } from './components/productos/productos.component';
+import { DashBoardComponent } from './components/dash-board/dash-board.component';
 
 
 
@@ -13,7 +14,8 @@ import { ProductosComponent } from './components/productos/productos.component';
   declarations: [
     AppComponent,
     NavbarComponent,
-    ProductosComponent
+    ProductosComponent,
+    DashBoardComponent
   ],
   imports: [
     BrowserModule,
