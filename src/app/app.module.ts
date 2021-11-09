@@ -7,7 +7,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { MatButtonModule } from '@angular/material/button';
 import { ProductosComponent } from './components/productos/productos.component';
 import { DashBoardComponent } from './components/dash-board/dash-board.component';
-
+import { RegistroComponent } from './components/registro/registro.component';
+import { LoginComponent } from './components/login/login.component';
 
 
 @NgModule({
@@ -15,7 +16,9 @@ import { DashBoardComponent } from './components/dash-board/dash-board.component
     AppComponent,
     NavbarComponent,
     ProductosComponent,
-    DashBoardComponent
+    DashBoardComponent,
+    RegistroComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,

@@ -4,12 +4,14 @@ import { Router, Routes } from '@angular/router';
 import { LoginComponent } from './components/login/login.component';
 import { AppComponent } from './app.component';
 import { DashBoardComponent } from './components/dash-board/dash-board.component';
+import { RegistroComponent } from './components/registro/registro.component';
 
 
 const routes: Routes =[
   
-  {path: '', children: ()=> import('./components/dash-board')},
-  {path: 'login', component: LoginComponent}
+  {path: '', component :DashBoardComponent},
+  {path: 'login', component: LoginComponent},
+  {path: 'registro', component: RegistroComponent},
   
 ]
 
