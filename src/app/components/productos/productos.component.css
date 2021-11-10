@@ -1,30 +1,45 @@
 
 #card{
     float: left;
-    margin: 10px;
-    padding: 15px;
-    height: 415px;
+    margin: 1%;
+    padding: 1%;
+    height: 19%;
     width: 20%;
     border:solid;
+    border-color: #0B46AE;
     border-radius: 15px;
-    background-color: azure;
+    background-color: whitesmoke;
 }
 #imagen{
-border-top: 2px;
-border:solid;
-border-radius: 15px;
+    width: 100%;
+    border:solid;
+    border-radius: 15px;
+    border-color: #0B46AE;
 }
 
 #addCarrito{
-    border: solid;
+
+    height: 50%;
+    justify-content: center;
+    float: left;
     margin-left: 25%;
-    color:#A9A9A9;
+    font-size: 100%;
+    color:black;
+    border-bottom: black;
+    border: solid;
     border-radius: 15px;
+    border-color: #0B46AE;
+   
 }
 
 #addCarrito:hover{
-    border: solid;
+    height: 50%;
+    justify-content: center;
+    float: left;
     margin-left: 25%;
-    color:black;
+    font-size: 100%;
+    color:whitesmoke;
+    border-bottom: whitesmoke;
+    border: solid;
     border-radius: 15px;
 }
