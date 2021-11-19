@@ -8,7 +8,7 @@
     border:solid;
     border-color: #0B46AE;
     border-radius: 15px;
-    background-color: whitesmoke;
+    background-color: rgb(230, 228, 228);
 }
 #imagen{
     width: 100%;
@@ -38,8 +38,8 @@
     float: left;
     margin-left: 25%;
     font-size: 100%;
-    color:whitesmoke;
-    border-bottom: whitesmoke;
+    color:#f39406;
+    border-bottom: #f39406;
     border: solid;
     border-radius: 15px;
 }
